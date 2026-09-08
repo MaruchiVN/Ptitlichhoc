@@ -1,0 +1,44 @@
+{
+  "updated_at": "2026-09-08T07:00:00Z",
+  "version": 1,
+  "events": [
+    {
+      "id": "lh_01",
+      "title": "Kỹ thuật lập trình (IT2020)",
+      "type": "lich_hoc",
+      "date": "2026-09-08",
+      "dayOfWeek": 3,
+      "lessonPeriod": "Tiết 1 - 3",
+      "time": "07:00 - 09:50",
+      "room": "B1-302",
+      "teacher": "TS. Nguyễn Văn A",
+      "group": "02",
+      "note": "Mang laptop thực hành Lab 1",
+      "isCompleted": false
+    },
+    {
+      "id": "cn_01",
+      "title": "Học tiếng Anh TOEIC",
+      "type": "lich_ca_nhan",
+      "date": "2026-09-08",
+      "dayOfWeek": 3,
+      "lessonPeriod": "Tối",
+      "time": "19:30 - 21:00",
+      "room": "Online",
+      "teacher": "Tự học",
+      "group": "Cá nhân",
+      "note": "Làm đề Reading test 3",
+      "isCompleted": false
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_01",
+      "title": "Lịch học mới đã được cập nhật",
+      "message": "Hệ thống đã cập nhật thời khoá biểu tuần mới nhất từ GitHub.",
+      "time": "08:00 - 08/09",
+      "type": "system",
+      "isRead": false
+    }
+  ]
+}
